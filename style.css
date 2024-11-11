@@ -3,7 +3,7 @@ body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     margin: 0;
     height: 100vh; 
-    background: linear-gradient(270deg, #d827a3,#ffafff, #f894fd); 
+    background: linear-gradient(270deg, #ce47a5,#ffafff, #f894fd); 
     background-size: 400% 400%; 
     animation: gradientAnimation 15s ease infinite; 
     padding: 100px;
